@@ -1,0 +1,59 @@
+**Ability Scores**
+
+* Strength (STR): measures physical power and athleticism
+* Dexterity (DEX): measures agility and reflexes
+* Constitution (CON): measures endurance and resilience
+* Intelligence (INT): measures mental acuity and problem-solving ability
+* Wisdom (WIS): measures perception and insight
+* Charisma (CHA): measures charm and persuasiveness
+
+**Ability Score Modifiers**
+
+* Modifiers are calculated based on ability scores
+* Modifier = (Ability Score - 10) / 2, rounded down
+* Example: 18 Strength = (18 - 10) / 2 = 4, rounded down to +4
+
+**Modifier Table**
+
+* 1-3: -5
+* 4-5: -3
+* 6-7: -2
+* 8-9: -1
+* 10-11: +0
+* 12-13: +1
+* 14-15: +2
+* 16-17: +3
+* 18-19: +4
+* 20-21: +5
+
+**Influence on Regular Rolls**
+
+* Ability checks: roll a d20 and add relevant modifier
+* Example: Climbing a wall with 18 Strength: roll d20 + 4 (Strength modifier)
+* Skills: add proficiency bonus to relevant ability check
+
+**Influence on Combat Rolls**
+
+* Attack rolls: roll a d20 and add relevant modifier (STR or DEX) and proficiency bonus
+* Damage rolls: add relevant modifier (STR or DEX) to damage
+* Armor Class (AC): 10 + DEX modifier + armor bonus (Don't make the armor too overpowered and keep it to usually just a +1 or +2 bonus.)
+
+**Example Combat Roll**
+
+* Fighter with 18 Strength and +2 proficiency bonus attacks with a longsword:
+    + Attack roll: d20 + 4 (STR modifier) + 2 (proficiency bonus)
+    + Damage roll: 1d8 + 4 (STR modifier)
+
+**Other Uses of Modifiers**
+
+* Saving throws: add relevant modifier to saving throw roll
+* Skill checks: add relevant modifier and proficiency bonus to skill check roll
+* Ability checks: add relevant modifier to ability check roll
+
+**Proficiency Bonus**
+
+* +2 at level 1-4
+* +3 at level 5-8
+* +4 at level 9-12
+* +5 at level 13-16
+* +6 at level 17-20

@@ -1,0 +1,81 @@
+```
+**Races**
+
+1. Dwarf: +2 Constitution, +1 Strength
+	* Special ability: "Battle Cry" - +1 to attack rolls for 1 round after taking a hit (available at level 1)
+2. Elf: +2 Dexterity, +1 Intelligence
+	* Special ability: "Rapid Fire" - Fire an additional arrow with Longbow attacks (available at level 1)
+3. Human: +1 to all stats
+	* No special abilities
+4. Dragonborn: +2 Strength, +1 Charisma
+	* Special ability: "Breath of Fire" - 1d6 fire damage to all enemies within 10ft (1/round) (available at level 5)
+5. Orc: +2 Strength, -1 Intelligence
+	* Special ability: "Frenzy" - +2 to attack rolls for 1 round after killing an enemy (available at level 3)
+6. Halfling: +2 Dexterity, +1 Charisma
+	* Special ability: "Lucky Strike" - Reroll a failed attack roll once per day (available at level 1)
+
+**Classes**
+
+1. Fighter: +2 Strength, proficient in melee attacks
+	* Starting equipment: Longsword (1d6 damage, melee range)
+	* Special abilities:
+		+ "Second Wind" - Heal 1d4 + STR modifier HP once per combat (available at level 1)
+		+ "Shield Block" - Block 1d4 + STR modifier damage with shield (available at level 5)
+2. Rogue: +2 Dexterity, proficient in stealth and ranged attacks
+	* Starting equipment: Short sword (1d4 damage, melee range) and Shortbow (1d4 damage, 60ft range)
+	* Special abilities:
+		+ "Sneak Attack" - +1d4 damage when attacking from behind an enemy (available at level 1)
+		+ "Expertise" - Double proficiency bonus for specific skills (available at level 3)
+3. Wizard: +2 Intelligence, proficient in spellcasting
+	* Starting equipment: Quarterstaff (1d4 damage, melee range)
+	* Special spells:
+		+ Magic Missile: 1d4 force damage, 30ft range (auto-hit) (available at level 1)
+		+ Fireball: 1d4 fire damage to all enemies within 10ft (1/round) (available at level 5)
+4. Bard: +2 Charisma, proficient in performance and persuasion
+	* Starting equipment: Lute (1d2 damage, melee range)
+	* Special abilities:
+		+ "Charming Melody" - Enemy within 30ft must make a WIS save or become charmed for 1 round (available at level 1)
+		+ "Inspiring Performance" - +1 to attack and damage rolls for allies within 30ft (available at level 3)
+5. Cleric: +2 Wisdom, proficient in healing and support
+	* Starting equipment: Warhammer (1d6 damage, melee range)
+	* Special abilities:
+		+ "Healing Hands" - Heal 1d4 + WIS modifier HP to self or ally once per combat (available at level 1)
+		+ "Divine Intervention" - +1 to attack and damage rolls for 1 round (available at level 5)
+6. Monk: +2 Dexterity, proficient in martial arts
+	* Starting equipment: Unarmed strike (1d2 damage, melee range)
+	* Special abilities:
+		+ "Flurry of Blows" - Make an additional unarmed strike attack when taking the Attack action (available at level 1)
+		+ "Wholeness of Body" - Heal 1d4 + DEX modifier HP once per combat (available at level 3)
+
+**Leveling System**
+
+* Characters start at level 1 with 0 experience points (XP).
+* XP is gained by defeating enemies, completing quests, or achieving milestones.
+* Level up when XP reaches the following thresholds:
+	+ Level 2: 100 XP
+	+ Level 3: 300 XP
+	+ Level 4: 600 XP
+	+ Level 5: 1000 XP
+* When leveling up, characters gain:
+	+ +1 to a stat of their choice (STR, DEX, CON, INT, WIS, CHA)
+	+ +1 to attack or damage rolls with a specific type of attack (melee, ranged, spell)
+	+ Access to a new special ability or spell (chosen from a list specific to their class)
+
+**Example XP Gains**
+* Defeating a weak enemy (e.g., goblin): 10 XP
+* Defeating a medium enemy (e.g., orc): 50 XP
+* Defeating a strong enemy (e.g., dragon): 200 XP
+* Completing a quest: 100-500 XP (depending on the quest's difficulty and importance)
+
+**Example Attacks**
+* Short sword: 1d6 damage, melee range, no effect
+* Longsword: 1d8 damage, melee range, no effect
+* Longbow: 1d8 damage, 150ft range, no effect
+* Poison dagger: 1d4 damage, melee range, poison effect (target takes an additional 1d4 damage)
+
+**Additional Combat instructions**
+* Sometimes the player might not know what attacks, abilities, spells, etc. that they can take. Make sure, after all of your text on what happens say "Here are the actions you can take: ". Then, list their attacks, spells, abilities, etc. 
+* At the very end add "Other (User's choice)" as one of the actions. This is to encourage creativity among players.
+* The AC (armor class) should be balanced. It should be 10 plus the dexterity bonus. Don't make it SUPER high.
+* Also, if a character has a shield it should mitigate the damage taken BY the player. Weapon durability is not considered in this campaign whatsoever. Also, if you need to take into consideration things like the amount of arrows left in a quiver, don't. Those things will not be considered. It will just be considered as a normal attack.
+```
