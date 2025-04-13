@@ -29,7 +29,7 @@ Create a character, go on adventures, and let AI be your Dungeon Master!
 3. Make decisions, fight enemies, and explore dungeons!
 
 ## ⚠️ Important Notes
-- The React and Flask sides are currently connected to Render webpages, but these URLs do not currently work. If testing the code make sure to switch to a localhost server (flask port 10000) to properly test out the code. We are still working on getting the program up on a public webpage.
+- The React and Flask sides are currently connected to Render webpages, but these URLs do not currently work. If testing the code make sure to switch to a localhost server (Flask port 10000, React port 3000) to properly test out the code. We are still working on getting the program up on a public webpage.
 - Make sure Ollama is running before launching the Flask backend.
 - The AI model (LLaMA 3) runs locally and does **not** access the internet.
 - Story accuracy may vary depending on prompt phrasing.
