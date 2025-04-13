@@ -1,4 +1,4 @@
-### Dungeons and Dragons!
+# Dungeons and Dragons!
 
 A conversational, story-driven Dungeons & Dragons experience powered by LLaMA 3 and Flask + React. 
 Create a character, go on adventures, and let AI be your Dungeon Master!
