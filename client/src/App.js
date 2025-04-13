@@ -30,7 +30,7 @@ function App() {
     try {
       const prompt = newLog.join("\n"); // Create the full prompt with context
 
-      const res = await fetch("http://localhost:5000/api/dungeon", {
+      const res = await fetch("https://dungeon-game-1-8kd0.onrender.com", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
