@@ -4,7 +4,7 @@ from dungeon_ai import get_llama3_response, build_prompt_with_books
 from flask_cors import CORS
 
 app = Flask(__name__)
-CORS(app, origins=["https://dungeon-game-5ijq.onrender.com"])  # React frontend
+CORS(app, origins=["https://dungeon-game-client.onrender.com"])  # React frontend
 
 @app.route("/api/dungeon", methods=["POST"])
 def dungeon():
